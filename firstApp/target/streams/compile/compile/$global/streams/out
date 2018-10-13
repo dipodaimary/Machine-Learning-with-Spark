@@ -1,0 +1,19 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/dd/Documents/git/ML_with_spark/firstApp/ScalaApp.scala:7:8: not found: value set[0m
+[0m[[0m[31merror[0m] [0m[0m       set of records of the form (user, product, price)[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dd/Documents/git/ML_with_spark/firstApp/ScalaApp.scala:7:15: not found: value records[0m
+[0m[[0m[31merror[0m] [0m[0m       set of records of the form (user, product, price)[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dd/Documents/git/ML_with_spark/firstApp/ScalaApp.scala:7:26: not found: value the[0m
+[0m[[0m[31merror[0m] [0m[0m       set of records of the form (user, product, price)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dd/Documents/git/ML_with_spark/firstApp/ScalaApp.scala:7:36: not found: value user[0m
+[0m[[0m[31merror[0m] [0m[0m       set of records of the form (user, product, price)[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dd/Documents/git/ML_with_spark/firstApp/ScalaApp.scala:7:42: not found: value product[0m
+[0m[[0m[31merror[0m] [0m[0m       set of records of the form (user, product, price)[0m
+[0m[[0m[31merror[0m] [0m[0m                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dd/Documents/git/ML_with_spark/firstApp/ScalaApp.scala:7:51: not found: value price[0m
+[0m[[0m[31merror[0m] [0m[0m       set of records of the form (user, product, price)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m
