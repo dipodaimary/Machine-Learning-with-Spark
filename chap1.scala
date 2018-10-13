@@ -22,3 +22,7 @@ val data = sc.textFile("data/UserPurchaseHistory.csv").map(line=>line.split(",")
 data.map{case (x,y,z)=>x}.distinct.count
 //find the most popular product
 data.map{case(user,item,amount)=> (item,1)}.reduceByKey(_+_).collect().sortBy(-_._2) //best one-liners
+
+val user_data = spark.textFile("/tmp/ml-100k/u.user")
+
+//Processing and transforming data:
